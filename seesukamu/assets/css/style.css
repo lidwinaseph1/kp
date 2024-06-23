@@ -1,0 +1,29 @@
+.jumbotron {
+  margin-top: 55px;
+  padding-top: 6rem;
+  background-color: #e2edff;
+  height: 500px;
+  background-image: url(../img/hero.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 75% 25%;
+}
+.footer {
+  background-color: #d49ba2;
+}
+
+.navbar {
+  background-color: #bc5c67;
+}
+
+#services {
+  background-color: #eab6b8;
+}
+
+section {
+  padding-top: 5rem;
+}
+.btn-reset {
+  background-color: gray;
+  color: white;
+}
